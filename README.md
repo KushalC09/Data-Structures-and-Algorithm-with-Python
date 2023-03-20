@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithm-with-Python
 A beginner friendly guide for learning data structures and algorithms using Python.
 
-![image](https://user-images.githubusercontent.com/111130286/226301519-24c86622-3c4e-446e-a94c-63b135faacea.png)
+   !           [image](https://user-images.githubusercontent.com/111130286/226301519-24c86622-3c4e-446e-a94c-63b135faacea.png)
 
 Computers store and process data with an extra ordinary speed and accuracy. So, it is highly essential that the data is stored efficiently and can be accessed fast. Also, the processing of data should happen in the smallest possible time, but without losing the accuracy.
 
